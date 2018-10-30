@@ -1,3 +1,3 @@
 # hello-world
 first code
-whats good motherfuckers 
+ hi guys, how are you doing
